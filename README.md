@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hyunjin</h1>
+
+<h3 align="center">Welcome to my GitHub</h3>
+
 
 <!--
 **jinnnn07/jinnnn07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
